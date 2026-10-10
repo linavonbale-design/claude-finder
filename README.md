@@ -57,7 +57,6 @@ Claude Finder is free and open source. If it saves you time, you can support fur
 
 - ⭐ Star this repo
 - ☕ [Buy me a coffee](https://buymeacoffee.com/<your-username>)
-- 💖 [GitHub Sponsors](https://github.com/sponsors/linavonbale-design)
 
 ## License
 
