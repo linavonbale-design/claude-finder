@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Claude Finder",
+  "version": "0.1.0",
+  "description": "Private local search for your Claude conversations.",
+  "action": {"default_popup": "popup.html"},
+  "permissions": ["storage"]
+}

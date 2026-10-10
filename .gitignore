@@ -1,0 +1,8 @@
+node_modules/
+# Never commit a real claude.ai export
+conversations.json
+!mcp-server/sample/conversations.json
+claude-export/
+*.zip
+.env
+.DS_Store

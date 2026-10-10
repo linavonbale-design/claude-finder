@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude Finder</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <div class="brand"><span class="logo">⌕</span><div><h1>Claude Finder</h1><p>Private search for your AI history</p></div></div>
+  <input id="q" autofocus placeholder="Ask: What did we decide about pricing?">
+  <div class="row">
+    <button id="search">Search</button>
+    <label class="import">Import Claude data<input id="file" type="file" accept=".json,.txt,.md,.html" hidden></label>
+  </div>
+  <div id="status"></div>
+  <div id="results"></div>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>

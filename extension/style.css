@@ -1,0 +1,5 @@
+body{margin:0;width:390px;background:#f7f7f5;color:#171717;font:14px/1.45 system-ui,-apple-system,sans-serif}
+.app{padding:18px}.brand{display:flex;gap:10px;align-items:center;margin-bottom:16px}.logo{font-size:30px}.brand h1{font-size:18px;margin:0}.brand p{margin:1px 0;color:#666;font-size:12px}
+#q{width:100%;box-sizing:border-box;border:1px solid #ccc;border-radius:10px;padding:12px;background:white;font-size:14px;outline:none}
+#q:focus{border-color:#555}.row{display:flex;gap:8px;margin:9px 0}.row button,.import{border:0;border-radius:9px;padding:9px 12px;background:#171717;color:white;cursor:pointer}.import{background:#e7e7e3;color:#222}
+#status{color:#666;font-size:12px;margin:8px 0}.result{background:white;border:1px solid #ddd;border-radius:10px;padding:11px;margin:8px 0}.title{font-weight:650}.meta{color:#777;font-size:11px;margin:3px 0 6px}.snippet{color:#333}.empty{color:#777;padding:18px 4px;text-align:center}

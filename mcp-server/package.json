@@ -1,0 +1,27 @@
+{
+  "name": "claude-finder-mcp",
+  "version": "0.1.0",
+  "description": "MCP server: search decisions in your claude.ai export",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "search",
+    "decisions",
+    "model-context-protocol"
+  ],
+  "author": "Lina",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.5"
+  },
+  "bin": {
+    "claude-finder-mcp": "index.js"
+  }
+}

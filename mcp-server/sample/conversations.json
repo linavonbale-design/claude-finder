@@ -1,0 +1,14 @@
+[
+  {"uuid":"aaa-111","name":"Pricing brainstorm","created_at":"2026-03-02T10:00:00Z","chat_messages":[
+    {"sender":"human","created_at":"2026-03-02T10:00:00Z","content":[{"type":"text","text":"Should Claude Finder be free or paid?"}]},
+    {"sender":"assistant","created_at":"2026-03-02T10:01:00Z","content":[{"type":"text","text":"There are tradeoffs. A one-time price is simple."}]},
+    {"sender":"human","created_at":"2026-03-02T10:05:00Z","content":[{"type":"text","text":"We decided to charge a one-time price of $29 instead of a subscription. Because users hate subscriptions for small tools."}]}
+  ]},
+  {"uuid":"bbb-222","name":"Pricing revisited","created_at":"2026-05-14T09:00:00Z","chat_messages":[
+    {"sender":"human","created_at":"2026-05-14T09:00:00Z","content":[{"type":"text","text":"Semantic search needs hosting costs. Let's go with a $5 monthly subscription price for the pro tier, since embeddings cost money."}]}
+  ]},
+  {"uuid":"ccc-333","name":"Storage choice","created_at":"2026-04-01T12:00:00Z","chat_messages":[
+    {"sender":"assistant","created_at":"2026-04-01T12:00:00Z","content":[{"type":"text","text":"I recommend IndexedDB.\n\nWe will use IndexedDB rather than chrome.storage.local for the index, because chrome.storage has a 10MB quota."}]},
+    {"sender":"human","created_at":"2026-04-01T12:03:00Z","content":[{"type":"text","text":"Vi har besluttet at holde alt lokalt. Ingen server."}]}
+  ]}
+]
