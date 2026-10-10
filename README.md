@@ -24,7 +24,7 @@ what you chose, why, what you rejected, when, and whether a later chat changed i
 1. Export your data: claude.ai → Settings → Privacy → **Export data**. Unzip it.
 2. Install:
    ```
-   git clone https://github.com/<your-username>/claude-finder.git
+   git clone https://github.com/linavonbale-design/claude-finder.git
    cd claude-finder/mcp-server
    npm install
    ```
@@ -57,7 +57,7 @@ Claude Finder is free and open source. If it saves you time, you can support fur
 
 - ⭐ Star this repo
 - ☕ [Buy me a coffee](https://buymeacoffee.com/<your-username>)
-- 💖 [GitHub Sponsors](https://github.com/sponsors/<your-username>)
+- 💖 [GitHub Sponsors](https://github.com/sponsors/linavonbale-design)
 
 ## License
 
